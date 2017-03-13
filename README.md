@@ -24,5 +24,4 @@ Upon successful completion of the build:
 Refreneces:
     
 Cavallo and Klir - https://www.researchgate.net/publication/233331580_Reconstructability_analysis_of_multi-dimensional_relations_A_theoretical_basis_for_computer-aided_determination_of_acceptable_systems_models
-
 Hendrix et. al -http://www.sciencedirect.com/science/article/pii/S0304397510001386
