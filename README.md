@@ -1,5 +1,5 @@
 # thesis
-This project is the basis for my Masters Thesis at SUNY Polytechnic 
+This project is the basis for my Masters Thesis at SUNY Polytechnic and is based on work that I pursued with Paul Ziarko in Spring 2016
 
 Project advisor: Roger Cavallo
 
