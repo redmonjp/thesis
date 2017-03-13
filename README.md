@@ -5,7 +5,7 @@ Project advisor: Roger Cavallo
 
 So far the work surrounds Maximal Clique Enumeration (MCE) in  undirected graphs:
   - An implementation of the Bron-Kerbosch (BK) Algorithm for finding the set of all maximal cliques in a given unperturbed graph
-  - An implementation of the AC and RC Algorithms from Cavallo and Klir 
+  - An implementation of the AC (aggregation) and RC (refinement) Algorithms from Cavallo and Klir 
   
 Further and in-progress work includes:
   - An implementation of adding an edge from Hendrix 
