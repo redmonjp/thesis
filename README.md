@@ -1,5 +1,6 @@
 # thesis
 This project is the basis for my Masters Thesis at SUNY Polytechnic 
+
 Project advisor: Roger Cavallo
 
 So far the work surrounds Maximal Clique Enumeration (MCE) in  undirected graphs:
