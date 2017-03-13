@@ -1,0 +1,39 @@
+Starting RC-procedure:
+Removing edge #1 which is - '(1,4)'
+0 0 0 0 
+0 0 1 1 
+0 1 0 1 
+0 1 1 0 
+The new refined set of maximal cliques when adding in the edge {1,4} results in - 
+{1}
+{2,3,4}
+
+Removing edge #2 which is - '(2,3)'
+0 0 0 1 
+0 0 0 1 
+0 0 0 1 
+1 1 1 0 
+The new refined set of maximal cliques when adding in the edge {2,3} results in - 
+{1,4}
+{2,4}
+{3,4}
+
+Removing edge #3 which is - '(2,4)'
+0 0 0 1 
+0 0 1 0 
+0 1 0 1 
+1 0 1 0 
+The new refined set of maximal cliques when adding in the edge {2,4} results in - 
+{1,4}
+{2,3}
+{3,4}
+
+Removing edge #4 which is - '(3,4)'
+0 0 0 1 
+0 0 1 1 
+0 1 0 0 
+1 1 0 0 
+The new refined set of maximal cliques when adding in the edge {3,4} results in - 
+{1,4}
+{2,3}
+{2,4}

@@ -1,0 +1,21 @@
+Adjacency matrix for the graph input: 
+0 0 0 1 
+0 0 1 1 
+0 1 0 1 
+1 1 1 0 
+
+Set of primal edges for the graph data input: 
+{1,4}
+{2,3}
+{2,4}
+{3,4}
+
+Set of cliques as they appear in the input file: 
+{1,4}
+{2,3,4}
+
+Clique comparison (bk-algorithm): 
+{1,4}
+{2,3,4}
+
+The bk_algorithm has returned that the set of maximal cliques provided is correct for this graph.
